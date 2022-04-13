@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/coins/bitcoin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/coins/bitcoin/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/protocols/cgminer-api/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/protocols/stratum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/protocols/wire/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/async-compat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/async-i2c/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/envlogger/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/envlogger/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/envlogger/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/failure/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/failure/failure_derive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/failure/failure_derive/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/failure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/failure/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/linux-async-i2c/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/sensors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/stats/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/svd-build/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils-rs/uio-async/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/protocols/wire/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/async-compat/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/async-i2c/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/envlogger/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/uio-async/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/svd-build/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/stats/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/sensors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/linux-async-i2c/target" />
+      <excludeFolder url="file://$MODULE_DIR$/utils-rs/failure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/coins/target" />
+      <excludeFolder url="file://$MODULE_DIR$/protocols/cgminer-api/target" />
+      <excludeFolder url="file://$MODULE_DIR$/protocols/stratum/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

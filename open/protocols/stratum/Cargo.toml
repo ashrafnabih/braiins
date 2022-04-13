@@ -24,7 +24,7 @@ hex = "0.3.2"
 packed_struct = "0.3"
 packed_struct_codegen = "0.3"
 bitcoin_hashes = "0.3.2"
-snow = "0.7.0-alpha4"
+snow = "^0.9.0"
 uint = "0.5.0"
 async-trait = "0.1.17"
 ii-bitcoin = { path = "../../coins/bitcoin" }
@@ -45,5 +45,6 @@ v2json = []
 
 # failure caused a problem when they used private API from quote:
 # https://users.rust-lang.org/t/failure-derive-compilation-error/39062
-[patch.crates-io.failure]
-path = "../../utils-rs/failure"
+#[patch.crates-io.failure]
+#path = "../../utils-rs/failure"
+#
