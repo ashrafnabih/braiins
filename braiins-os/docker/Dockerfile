@@ -25,6 +25,7 @@
 
 FROM debian:9.6 AS build-system
 
+RUN echo "deb http://archive.debian.org/debian stretch main" > /etc/apt/sources.list
 RUN apt-get update && apt-get install -y \
     build-essential \
     sudo \
